@@ -19,9 +19,9 @@ git clone https://github.com/mcytnykoff/e2e-bdd-style.git
 ```
 2. Open `e2e` folder in IDE of your choice and open ./env/test-local.env file
 
-3. In ./env/test-local.env set UI_ENV= to match your local environament eg:
+3. In ./env/test-local.env set UI_ENV= to match your local source code directory eg:
 
-"file:///Users/msitnikov/Code/payLocityCodingChallange/Paylocity%20QA%20Interview%20Challenge/"
+"file:///Users/mcytnykoff/Code/payLocityCodingChllange2018/e2e-bdd-skeleton/PaylocityQAInterviewChallenge/"
 
 4. Run the following from the command line 
 ```
@@ -31,7 +31,7 @@ $ npm i
 
 5. Navigate to PayLocity login page to verify source code is in the right directory eg:
 
-```file:///Users/msitnikov/Code/payLocityCodingChallange/Paylocity%20QA%20Interview%20Challenge/login.html"
+```file:///Users/mcytnykoff/Code/payLocityCodingChllange2018/e2e-bdd-skeleton/PaylocityQAInterviewChallenge/login.html"
 ```
 
 # start selenium webdriver (watch)
