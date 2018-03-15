@@ -35,6 +35,7 @@ $ npm i
 ```
 
 ## Start selenium webdriver (watch)
+```
 $ npm run wd-update
 $ npm run wd-start
 ```
