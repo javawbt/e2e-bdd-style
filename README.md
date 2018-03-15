@@ -34,7 +34,7 @@ $ npm i
 ```file:///Users/mcytnykoff/Code/payLocityCodingChllange2018/e2e-bdd-skeleton/PaylocityQAInterviewChallenge/login.html"
 ```
 
-# start selenium webdriver (watch)
+## Start selenium webdriver (watch)
 $ npm run wd-update
 $ npm run wd-start
 ```
