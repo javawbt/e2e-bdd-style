@@ -53,7 +53,7 @@ $ npm run wd-start
 ## Running Tests
 When in repo root directory in Terminal window, type the following to run the tests...
 ```
-$ . ./env/test-local.env && npm run test"
+$ . ./env/test-local.env && npm run test
 ```
 Windows users must use git bash (https://gitforwindows.org/)
 
