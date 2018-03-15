@@ -27,12 +27,12 @@ git clone https://github.com/mcytnykoff/e2e-bdd-style.git
 ```
 # install the dependencies with npm
 $ npm i
-
+```
 
 5. Navigate to PayLocity login page to verify source code is in the right directory eg:
 
 ```file:///Users/msitnikov/Code/payLocityCodingChallange/Paylocity%20QA%20Interview%20Challenge/login.html"
-
+```
 
 # start selenium webdriver (watch)
 $ npm run wd-update
