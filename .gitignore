@@ -1,0 +1,18 @@
+features/test.feature
+node_modules
+reports
+
+env/*
+!env/test-local.env
+!env/test.env
+
+npm-debug.log
+debug.log
+
+dataContainer/*
+!dataContainer/environment resources
+!reports/cucumber.json
+ 
+ 
+
+ 
