@@ -15,7 +15,7 @@ An awesome bdd style e2e fwk with `cucumber 1` with `protractor 5`
 ## Getting Started
 1. Clone repo
 ```
-git clone https://git.e2e.git
+git clone https://github.com/mcytnykoff/e2e-bdd-style.git
 ```
 2. Open `e2e` folder in IDE of your choice and open ./env/test-local.env file
 
