@@ -20,9 +20,9 @@ git clone https://github.com/mcytnykoff/e2e-bdd-style.git
 2. Open `e2e` folder in IDE of your choice and open ./env/test-local.env file
 
 3. In ./env/test-local.env set UI_ENV= to match your local source code directory eg:
-
-"file:///Users/mcytnykoff/Code/payLocityCodingChllange2018/e2e-bdd-skeleton/PaylocityQAInterviewChallenge/"
-
+```
+export UI_ENV= "file:///Users/mcytnykoff/Code/payLocityCodingChllange2018/e2e-bdd-skeleton/PaylocityQAInterviewChallenge/"
+```
 4. Run the following from the command line 
 ```
 # install the dependencies with npm
@@ -50,7 +50,7 @@ $ npm run wd-start
 |`npm run wd-shutdown`  | Stop webdriver-manager            |
 
 
-```
+
 ## Running Tests
 When in repo root directory in Terminal window, type the following to run the tests...
 ```
