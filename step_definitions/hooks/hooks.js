@@ -34,7 +34,7 @@ const systemHooks = function () {
     const newHrs = date.getHours().toString();
     const newMin = date.getMinutes().toString();
 
-    const outDir = `reports/supramed_pm__cucumber_report-${newMonth}-${newDay}-${newYear}-${newHrs}h-${newMin}m.html`;
+    const outDir = `reports/cucumber_report-${newMonth}-${newDay}-${newYear}-${newHrs}h-${newMin}m.html`;
     const options = {
       theme: 'bootstrap',
       jsonFile: 'reports/cucumber.json',
